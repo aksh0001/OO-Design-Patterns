@@ -1,6 +1,8 @@
-package abstract_factory;
+package abstract_factory.af_eg2;
 
-import abstract_factory.animals.*;
+import abstract_factory.af_eg2.animals.Animal;
+import abstract_factory.af_eg2.animals.FemaleAnimal;
+import abstract_factory.af_eg2.animals.MaleAnimal;
 
 import java.util.LinkedList;
 

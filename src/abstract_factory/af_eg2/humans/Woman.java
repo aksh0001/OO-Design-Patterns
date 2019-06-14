@@ -1,7 +1,7 @@
-package abstract_factory.humans;
+package abstract_factory.af_eg2.humans;
 
 
-import abstract_factory.animals.FemaleAnimal;
+import abstract_factory.af_eg2.animals.FemaleAnimal;
 
 public class Woman extends FemaleAnimal {
 

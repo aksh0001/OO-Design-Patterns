@@ -1,8 +1,9 @@
-package abstract_factory.humans;
+package abstract_factory.af_eg2.humans;
 
 
-import abstract_factory.animals.AnimalFactory;
-import abstract_factory.animals.*;
+import abstract_factory.af_eg2.animals.AnimalFactory;
+import abstract_factory.af_eg2.animals.FemaleAnimal;
+import abstract_factory.af_eg2.animals.MaleAnimal;
 
 public class HumanFactory implements AnimalFactory {
 

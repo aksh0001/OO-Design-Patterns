@@ -1,7 +1,7 @@
-package abstract_factory.cattle;
+package abstract_factory.af_eg2.cattle;
 
 
-import abstract_factory.animals.MaleAnimal;
+import abstract_factory.af_eg2.animals.MaleAnimal;
 
 public class Bull extends MaleAnimal {
 

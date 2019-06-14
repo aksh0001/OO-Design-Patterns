@@ -1,4 +1,4 @@
-package abstract_factory.animals;
+package abstract_factory.af_eg2.animals;
 
 public abstract class FemaleAnimal extends Animal {
 	

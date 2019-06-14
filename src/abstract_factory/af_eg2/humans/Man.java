@@ -1,7 +1,7 @@
-package abstract_factory.humans;
+package abstract_factory.af_eg2.humans;
 
 
-import abstract_factory.animals.MaleAnimal;
+import abstract_factory.af_eg2.animals.MaleAnimal;
 
 public class Man extends MaleAnimal {
 

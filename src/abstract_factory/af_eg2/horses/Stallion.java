@@ -1,7 +1,7 @@
-package abstract_factory.horses;
+package abstract_factory.af_eg2.horses;
 
 
-import abstract_factory.animals.MaleAnimal;
+import abstract_factory.af_eg2.animals.MaleAnimal;
 
 public class Stallion extends MaleAnimal {
 

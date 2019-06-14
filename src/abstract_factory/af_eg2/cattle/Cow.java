@@ -1,7 +1,7 @@
-package abstract_factory.cattle;
+package abstract_factory.af_eg2.cattle;
 
 
-import abstract_factory.animals.FemaleAnimal;
+import abstract_factory.af_eg2.animals.FemaleAnimal;
 
 public class Cow extends FemaleAnimal {
 

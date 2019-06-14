@@ -1,9 +1,6 @@
-package abstract_factory;
+package abstract_factory.af_eg2;
 
-import abstract_factory.cattle.CattleFactory;
-import abstract_factory.horses.HorseFactory;
-import abstract_factory.humans.HumanFactory;
-import abstract_factory.animals.*;
+import abstract_factory.af_eg2.horses.HorseFactory;
 
 
 public class Driver {
