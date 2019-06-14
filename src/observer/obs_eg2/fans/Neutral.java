@@ -1,4 +1,4 @@
-package observer.fans;
+package observer.obs_eg2.fans;
 
 public class Neutral extends GameFan {
 

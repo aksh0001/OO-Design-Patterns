@@ -1,4 +1,4 @@
-package observer.game;
+package observer.obs_eg2.game;
 
 public enum GameEvent {
 	HOME_GOAL,

@@ -1,5 +1,5 @@
-package observer.game;
-import observer.observerPattern.Subject;
+package observer.obs_eg2.game;
+import observer.obs_eg2.observerPattern.Subject;
 
 import java.util.Random;
 

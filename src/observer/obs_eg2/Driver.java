@@ -1,7 +1,10 @@
-package observer;
+package observer.obs_eg2;
 
-import observer.game.Game;
-import observer.fans.*;
+import observer.obs_eg2.fans.Fan;
+import observer.obs_eg2.fans.Hater;
+import observer.obs_eg2.fans.Neutral;
+import observer.obs_eg2.fans.SuperFan;
+import observer.obs_eg2.game.Game;
 
 
 public class Driver {

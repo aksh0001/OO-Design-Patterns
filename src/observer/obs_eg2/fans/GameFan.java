@@ -1,8 +1,8 @@
-package observer.fans;
+package observer.obs_eg2.fans;
 
 
-import observer.game.Game;
-import observer.observerPattern.Observer;
+import observer.obs_eg2.game.Game;
+import observer.obs_eg2.observerPattern.Observer;
 
 
 public abstract class GameFan extends Observer {

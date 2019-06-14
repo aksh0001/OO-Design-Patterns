@@ -1,4 +1,4 @@
-package observer.observerPattern;
+package observer.obs_eg2.observerPattern;
 
 import java.util.HashSet;
 
